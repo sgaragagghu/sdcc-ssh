@@ -1,0 +1,3 @@
+Host sdcc-go
+        Hostname github.com
+        IdentityFile=~/sdcc-go-github-keypair/github
